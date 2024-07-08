@@ -1,0 +1,13 @@
+.logo {
+    width: 10%;
+    height: 60px;
+}
+
+.nav {
+    position:fixed;
+    width:100%;
+    z-index: 1;
+}
+.navbar{
+    background-color: black;
+}
